@@ -1,0 +1,7 @@
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\bin\Debug\CsharpFile.exe.config
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\bin\Debug\CsharpFile.exe
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\bin\Debug\CsharpFile.pdb
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\obj\Debug\CsharpFile.csproj.AssemblyReference.cache
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\obj\Debug\CsharpFile.csproj.CoreCompileInputs.cache
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\obj\Debug\CsharpFile.exe
+D:\asp.net\CsharpFile\CsharpFile\CsharpFile\obj\Debug\CsharpFile.pdb
